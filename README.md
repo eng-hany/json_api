@@ -1,6 +1,6 @@
 # json_api
 
-1-I created class to call the api_json function.
+1-I created class with php programming language to call the api_json function.
 2-implemented the url within the code.
 3-curl_setopt to set an option for a CURL transfer.
 4-certain request HTTP headers , Content-Type and Accept headers control input and output format.
